@@ -2,10 +2,10 @@
 
 Decidiste abandonar Marte después de que el último colapso solar dejó al 99.98% de los
 marcianos con el 0.02% de la riqueza. Afortunadamente, con la escasa suma de dinero que
-quedó, puedes rentar un bus espacial, dejar Marte, y viajar alrededor del Universo Kudert
+quedó, puedes rentar un bus espacial, dejar Marte, y viajar alrededor del Universo.
 para vender comida (que aparentemente es muy costosa).
 
-Para comprar y vender alrededor de la del Universo Kudert necesitas convertir números y
+Para comprar y vender alrededor de la del Universo necesitas convertir números y
 unidades, así que decidiste escribir un programa que te ayude.Los números usados para las transacciones universales siguen una convención similar a la
 de los números marcianos y con mucho esfuerzo has recolectado la traducción apropiada
 entre ellos.
