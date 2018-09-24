@@ -1,4 +1,5 @@
-* PROBLEMA
+# PROBLEMA
+
 Decidiste abandonar Marte después de que el último colapso solar dejó al 99.98% de los
 marcianos con el 0.02% de la riqueza. Afortunadamente, con la escasa suma de dinero que
 quedó, puedes rentar un bus espacial, dejar Marte, y viajar alrededor del Universo Kudert
@@ -11,7 +12,7 @@ entre ellos.
 
 Los números marcianos están basados en siete símbolos:
 
-** 
+##
 | Simbolo | Valor |
 |--------+-------|
 | I      |     1 |
@@ -42,7 +43,7 @@ compuesto de 1, 9, 0 y 3. Para escribir el número romano, cada uno de los dígi
 = CM y 3 = III. Por lo tanto, 1903 = MCMIII.
 #+END_QUOTE 
 
-** Entrada de prueba:
+# Entrada de prueba:
 #+BEGIN_SRC -n
 pouet is I
 plouf is V
@@ -58,7 +59,7 @@ how many Dollars is pouet plouf Hornado ?
 how much bread enters in a bakery during a full-moon night?
 #+END_SRC
  
-** Entrada de prueba:
+# Entrada de prueba:
 #+BEGIN_SRC -n 
 cuic boum pouet pouet is 42
 pouet plouf Empanada is 136 Dollars
