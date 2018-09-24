@@ -75,7 +75,9 @@ What are you talking about really?
 
 # Requisitos
 nodejs v10.9.0 y npm v6.2.0
+
 Intalar jest
+
 npm install jest
 
 # Ejecución
