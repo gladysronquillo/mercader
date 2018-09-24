@@ -85,5 +85,5 @@ Dirigirse al path src y ejecutar
 node index.js
 
 # Clonar
-$git clone 
+$git clone https://github.com/gladysronquillo/mercader
  
