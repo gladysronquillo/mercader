@@ -13,7 +13,8 @@ entre ellos.
 Los números marcianos están basados en siete símbolos:
 
 ##
-| Simbolo | Valor |
+| Simbolo | Valor | 
+
 | I      |     1 | 
 
 | V      |     5 | 
