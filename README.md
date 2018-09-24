@@ -75,4 +75,7 @@ npm install jest
 # Ejecución
 Dirigirse al path src y ejecutar
 node index.js
+
+# Clonar
+$git clone 
  
