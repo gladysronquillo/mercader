@@ -1,0 +1,12 @@
+pouet is I
+plouf is V
+cuic is X
+boum is L
+pouet pouet Empanada is 68 Dollars
+pouet plouf Ceviche is 115600 Dollars
+cuic cuic Hornado is 15640 Dollars
+how much is cuic boum pouet pouet ?
+how many Dollars is pouet plouf Empanada ?
+how many Dollars is pouet plouf Ceviche ?
+how many Dollars is pouet plouf Hornado ?
+how much bread enters in a bakery during a full-moon night?
